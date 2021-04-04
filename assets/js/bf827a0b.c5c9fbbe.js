@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[70],{144:function(e,n,t){"use strict";t.r(n);var o=t(0),c=t.n(o),r=(t(165),t(23));n.default=function(){return c.a.createElement(r.Redirect,{to:"/self-hosting/docker"})}}}]);

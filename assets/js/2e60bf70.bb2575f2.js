@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[16],{88:function(e,t,n){"use strict";n.r(t);var a=n(0),o=n.n(a),s=(n(165),n(23));t.default=function(){return o.a.createElement(s.Redirect,{to:"/listed/options/#separate-pages"})}}}]);
