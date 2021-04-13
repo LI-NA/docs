@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[79],{153:function(n,e,t){"use strict";t.r(e);var c=t(0),i=t.n(c),o=(t(180),t(24));e.default=function(){return i.a.createElement(o.Redirect,{to:"/self-hosting/ec2-nginx"})}}}]);
