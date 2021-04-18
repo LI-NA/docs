@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[26],{98:function(e,n,t){"use strict";t.r(n);var r=t(0),s=t.n(r),c=(t(184),t(24));n.default=function(){return s.a.createElement(c.Redirect,{to:"/listed/subscribers"})}}}]);
