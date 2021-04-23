@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[21],{90:function(e,t,n){"use strict";n.r(t);var o=n(0),i=n.n(o),s=(n(183),n(24));t.default=function(){return i.a.createElement(s.Redirect,{to:"/listed/options/#hide-post"})}}}]);

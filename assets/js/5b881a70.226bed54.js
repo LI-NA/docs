@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[39],{108:function(e,t,n){"use strict";n.r(t);var r=n(0),i=n.n(r),c=(n(183),n(24));t.default=function(){return i.a.createElement(c.Redirect,{to:"/listed/register"})}}}]);
