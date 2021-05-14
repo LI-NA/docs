@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[67],{136:function(e,n,t){"use strict";t.r(n);var o=t(0),r=t.n(o),c=(t(185),t(24));n.default=function(){return r.a.createElement(c.Redirect,{to:"/self-hosting/heroku"})}}}]);
