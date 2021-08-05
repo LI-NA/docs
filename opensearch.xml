@@ -4,8 +4,8 @@
   <ShortName>Standard Notes Documentation</ShortName>
   <Description>Search Standard Notes Documentation</Description>
   <InputEncoding>UTF-8</InputEncoding>
-  <Image width="16" height="16" type="image/x-icon">https://docs.standardnotes.org/img/favicon.png</Image>
-  <Url type="text/html" method="get" template="https://docs.standardnotes.org/search?q={searchTerms}"/>
-  <Url type="application/opensearchdescription+xml" rel="self" template="https://docs.standardnotes.org/opensearch.xml" />
-  <moz:SearchForm>https://docs.standardnotes.org/</moz:SearchForm>
+  <Image width="16" height="16" type="image/x-icon">https://docs.standardnotes.com/img/favicon.png</Image>
+  <Url type="text/html" method="get" template="https://docs.standardnotes.com/search?q={searchTerms}"/>
+  <Url type="application/opensearchdescription+xml" rel="self" template="https://docs.standardnotes.com/opensearch.xml" />
+  <moz:SearchForm>https://docs.standardnotes.com/</moz:SearchForm>
 </OpenSearchDescription>
