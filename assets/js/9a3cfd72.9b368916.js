@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[46],{117:function(e,t,n){"use strict";n.r(t);var o=n(0),a=n.n(o),c=(n(141),n(23));t.default=function(){return a.a.createElement(c.Redirect,{to:"/listed/about"})}}}]);
